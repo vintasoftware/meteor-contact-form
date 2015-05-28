@@ -4,7 +4,7 @@ Add a simple mailable contact form to your Web application.
 
 ## Installation
 
-`meteor add bredikhin:contact-form`
+`meteor add vintasoftware:contact-form`
 
 ## Usage
 
